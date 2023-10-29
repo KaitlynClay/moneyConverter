@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">moneyConverter</string>
+    <string name="rb1">American dollar to the Euro</string>
+    <string name="rb2">Euro to the American dollar</string>
+    <string name="pageTitle">Money Conversion</string>
+    <string name="hintText">Measurement to Convert</string>
+    <string name="btnText">Convert</string>
+
+</resources>
